@@ -11,6 +11,7 @@
 
 ### 🚀 Featured projects
 - **[Home Network Security Lab](https://github.com/IbrahimHussain2/network-security-lab)** — built and secured a virtual network end to end: pfSense firewall, Snort IDS, Wireshark traffic analysis and an nmap scan. Fully documented with evidence.
+- **[Password Breach Checker](https://github.com/IbrahimHussain2/password-breach-checker)** — a Python tool that checks if a password has appeared in a known data breach using the Have I Been Pwned API with k-anonymity, so the password never leaves your machine. Unit-tested with mocked API calls.
 - **[SSH Brute-Force Detector](https://github.com/IbrahimHussain2/ssh-bruteforce-detector)** — a Python tool that parses Linux auth logs to detect brute-force attacks and flag likely compromised accounts.
 - **[Phishing Awareness Simulator](https://github.com/IbrahimHussain2/phishing-awareness-simulator)** — a local, ethical phishing-awareness training tool that tracks click rates and reports results.
 

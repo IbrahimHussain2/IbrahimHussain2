@@ -6,17 +6,6 @@
 
 ---
 
-### 🔧 What I work with
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-E5202C?style=for-the-badge&logo=snort&logoColor=white)
-![nmap](https://img.shields.io/badge/nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 
 ### 🚀 Featured projects
 - **[Home Network Security Lab](https://github.com/IbrahimHussain2/network-security-lab)** — built and secured a virtual network end to end: pfSense firewall, Snort IDS, Wireshark traffic analysis and an nmap scan. Fully documented with evidence.
@@ -28,6 +17,18 @@
 - First-class Stage 1 average (73%)
 - Completed Mastercard Cybersecurity & HPE Software Engineering job simulations
 - Learning Linux fundamentals & networking on TryHackMe
+
+  ### 🔧 What I work with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-E5202C?style=for-the-badge&logo=snort&logoColor=white)
+![nmap](https://img.shields.io/badge/nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 
 ### 🔗 Find me
   [GitHub](https://github.com/IbrahimHussain2) · [LinkedIn](https://www.linkedin.com/in/ibrahim-hussain-00b9b4333/)

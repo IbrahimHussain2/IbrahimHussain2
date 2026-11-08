@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Cybersecurity+student+%40+Aston+University;Building+security+tools+in+public" alt="Typing banner" />
+</p>
+
 # Hi, I'm Ibrahim 👋
 
 **Second-year Cybersecurity (BSc Hons) student at Aston University**, building and documenting security and software projects in public.

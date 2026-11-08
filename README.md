@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Cybersecurity+student+%40+Aston+University;Building+security+tools+in+public" alt="Typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&repeat=false&width=820&height=45&lines=Welcome+to+my+GitHub" alt="Welcome" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=94A3B8&center=true&vCenter=true&repeat=false&width=820&height=35&lines=Cybersecurity+Student+%40+Aston+University" alt="Subtitle 1" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&repeat=false&width=820&height=35&lines=Building+security+tools+in+public" alt="Subtitle 2" />
 </p>
 
 # Hi, I'm Ibrahim 👋

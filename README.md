@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=160&section=header" alt="header" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&repeat=false&width=820&height=45&lines=Welcome+to+my+GitHub" alt="Welcome" />
 </p>
 <p align="center">
@@ -42,3 +46,7 @@
 
 ### 🔗 Find me
   [GitHub](https://github.com/IbrahimHussain2) · [LinkedIn](https://www.linkedin.com/in/ibrahim-hussain-00b9b4333/)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer" alt="footer" />
+</p>

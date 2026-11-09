@@ -48,5 +48,5 @@
   [GitHub](https://github.com/IbrahimHussain2) · [LinkedIn](https://www.linkedin.com/in/ibrahim-hussain-00b9b4333/)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer&width=100%" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=160&section=footer&width=100%" alt="footer" width="100%" />
 </p>
